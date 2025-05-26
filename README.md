@@ -23,7 +23,7 @@ This project extracts data from saved Facebook post HTML files, including author
 
 1. Clone this repository:
    ```bash
-   git clone [repository-url]
+   git clone https://github.com/tedtop/fb_extract
    cd fb_extract
    ```
 
